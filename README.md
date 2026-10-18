@@ -53,13 +53,12 @@ The EDA script explores the cleaned data using:
 
 ## Key Insights
 
-> Fill these in with your own results after running the EDA queries.
 
-- Company with the most total layoffs: _your result_
-- Largest single layoff event: _your result_
-- Month with the highest layoffs: _your result_
-- Overall total laid off in the dataset: _your result_
-- Observation about companies that shut down completely (100% laid off): _your result_
+- Company with the most total layoffs: AMAZON
+- Largest single layoff event: 12000
+- Month with the highest layoffs: January 2023 (no: 84714)
+- Overall total laid off in the dataset: 383659
+- Observation about companies that shut down completely (100% laid off): 116 companies shutdown completely
 
 ## SQL Concepts Demonstrated
 
